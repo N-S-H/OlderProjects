@@ -1,0 +1,20 @@
+This is a traditional snake game
+
+Aim: To eat as many fruits as possible in the grid by the snake without biting it's tail
+
+The tail increases by a unit every time the snake consumes the fruit
+ 
+Movements:
+w-UP
+d-RIGHT
+a-LEFT
+s-DOWN
+
+x-To quit the game at any time
+
+Your score will be updated by addition of  10 points everytime the snake consumes 
+the fruit
+
+The two ways for game over
+1.Snake biting it's own tail
+2.You press the key ' x ' to quit the game
